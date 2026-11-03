@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+smartapi-python
+pandas
+numpy
+pandas-ta
+python-dotenv
+websockets
+pyotp
+loguru
+jinja2
